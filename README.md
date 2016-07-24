@@ -6,8 +6,8 @@ When should you use [delegated events](https://learn.jquery.com/events/event-del
 
 1. Add new todos
 1. Display new todos on the DOM
-1. On page load, add seeded todos are added to the DOM
-1. Target and remove from DOM (via event delegation)
+1. Add seeded todos to the DOM on page load
+1. Target and remove todos from the DOM (via event delegation)
 
 ## Getting Started
 

@@ -1,6 +1,6 @@
 # JS Event Delegation
 
-**When should you use [delegated events](https://learn.jquery.com/events/event-delegation/)?**
+When should you use [delegated events](https://learn.jquery.com/events/event-delegation/)?
 
 ## Todo App Features
 
@@ -13,5 +13,5 @@
 
 1. Clone
 1. `npm i`
-1. Open *src/index.html*
+1. Open *src/index.html* in your browser
 1. `gulp`
